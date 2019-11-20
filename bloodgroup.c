@@ -14,7 +14,7 @@ void main()
 <<<<<<< HEAD
     printf("WHAT is your Name? ");
 =======
-    printf("What is your name? huh");
+    printf("What is your name? wow");
 >>>>>>> 896e8ce030b2619ec5dbfdbb5a8bbfe745163b2c
 
     scanf("%s", Name);
@@ -22,7 +22,7 @@ void main()
     do
     {
 
-      printf("What is your blood group [A, B, AB, or O]? huh");
+      printf("What is your blood group [A, B, AB, or O]? wow");
 
       scanf("%s", G);
 
