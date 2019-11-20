@@ -4,14 +4,18 @@
 
 void main()
 {
- char Name[40], G[5], answer[10];
+ char Name[60], G[5], answer[50];
 
   int i;
 
   do
   {
 
+<<<<<<< HEAD
     printf("WHAT is your Name? ");
+=======
+    printf("What is your name? ");
+>>>>>>> 896e8ce030b2619ec5dbfdbb5a8bbfe745163b2c
 
     scanf("%s", Name);
 
