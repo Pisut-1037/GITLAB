@@ -11,7 +11,7 @@ void main()
   do
   {
 
-    printf("What is your Name? ");
+    printf("WHAT is your Name? ");
 
     scanf("%s", Name);
 
